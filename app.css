@@ -1,8 +1,3 @@
-
-.img{
-background-image: none;
-}
-
-.p {
-    color: aqua;
+body {
+    background-color: rgb(154, 244, 244);
 }
