@@ -1,7 +1,7 @@
-.content-img {
-    background-image: url("./img.css/img1.png")
-}
 
+.img{
+background-image: none;
+}
 
 .p {
     color: aqua;
